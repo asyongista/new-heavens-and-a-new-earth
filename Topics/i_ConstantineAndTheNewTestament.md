@@ -174,4 +174,50 @@ These books were respected by early Christians but not included in the final bib
 
 ---
 
-If you want, I can also list **the exact NT differences** between Codex Sinaiticus and modern Bibles (like missing verses such as Mark 16:9–20 and John 7:53–8:11).
+
+
+## Constantine the Great
+
+**Emperor Constantine I**, also known as **Constantine the Great**, lived during the **late 3rd and early 4th centuries**.
+
+### **Key Dates**
+
+* **Born:** February 27, **c. 272 AD** (in Naissus, Moesia, modern-day Serbia)
+* **Reigned as Roman Emperor:** 306–337 AD
+* **Died:** May 22, **337 AD** (in Nicomedia, modern-day Turkey)
+
+### **Notable Facts**
+
+* First Roman emperor to **convert to Christianity**
+* Issued the **Edict of Milan (313 AD)**, granting religious tolerance to Christians
+* Founded **Constantinople (modern Istanbul)** in 330 AD
+* Played a key role in the **Council of Nicaea (325 AD)**, which addressed Christian doctrine
+
+---
+
+
+# **Timeline: Constantine, Codex Sinaiticus, and Calendar Reforms**
+
+| Year (AD)      | Event                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------ |
+| **272**        | Birth of **Constantine I** in Naissus (modern Serbia)                                            |
+| **306**        | Constantine becomes **Roman Emperor**                                                            |
+| **313**        | **Edict of Milan**: Christianity legalized in the Roman Empire                                   |
+| **325**        | **Council of Nicaea**: Addresses Christian doctrine (Nicene Creed)                               |
+| **330**        | Foundation of **Constantinople**                                                                 |
+| **337**        | Death of **Constantine I**                                                                       |
+| **c. 330–360** | **Codex Sinaiticus** is written (oldest nearly complete Bible in Greek)                          |
+| **1582**       | **Gregorian calendar** introduced by **Pope Gregory XIII**, reforming the Julian calendar        |
+| 45 BC          | **Julian calendar** introduced by **Julius Caesar**, based on ideas from Sosigenes of Alexandria |
+
+---
+
+### **Notes**
+
+* During Constantine’s lifetime, the **Julian calendar** was in use.
+* **Codex Sinaiticus** was produced roughly **at the same time as the later part of Constantine’s reign**.
+* The **Gregorian calendar** came **more than a millennium later** to correct Julian calendar drift.
+
+---
+
+If you want, I can also **make a visual timeline chart** so you can see all these events on a single line. It’s much easier to visualize. Do you want me to do that?
