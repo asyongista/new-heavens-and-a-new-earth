@@ -9,7 +9,6 @@ Effective Immediately:
 The religious group shall be known as:
 
 ## People of the Saints of the Most High
-## Bayan ng mga Banal ng Kataastaasan
 
 All official documents, communications, records, and related materials shall use this designation henceforth.
 
