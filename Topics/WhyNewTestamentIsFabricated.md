@@ -1,4 +1,9 @@
-The New Testament is not reliable in proving that the events it describes actually happened or that its history is accurate. Looking at early Christian history, we see that it later came under Roman influence, especially under Emperor Constantine I. Constantine pushed and reshaped Christianity.
+The New Testament is not reliable in proving that the events it describes actually happened. 
+Looking at early Christian history, we see that it started under Roman influence, especially under Emperor Constantine I. Constantine pushed and reshaped Christianity.
+
+When the earliest known manuscript, the Codex Sinaiticus (dated A.D. 330–360), was discovered, the original New Testament writings were already lost and could no longer be recovered. 
+It is possible to argue that the New Testament could have been fabricated by the Romans.
+
 
 To prove that, lets see the prophesy of Daniel in Daniel 7. 
 
